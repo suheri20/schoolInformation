@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2017\Projects\SchooInformation\StudentWeb\bin\Debug\netcoreapp1.1\StudentWeb.deps.json
+c:\users\user\documents\visual studio 2017\Projects\SchooInformation\StudentWeb\bin\Debug\netcoreapp1.1\StudentWeb.runtimeconfig.json
+c:\users\user\documents\visual studio 2017\Projects\SchooInformation\StudentWeb\bin\Debug\netcoreapp1.1\StudentWeb.runtimeconfig.dev.json
+c:\users\user\documents\visual studio 2017\Projects\SchooInformation\StudentWeb\bin\Debug\netcoreapp1.1\StudentWeb.dll
+c:\users\user\documents\visual studio 2017\Projects\SchooInformation\StudentWeb\obj\Debug\netcoreapp1.1\StudentWeb.AssemblyInfo.cs
+c:\users\user\documents\visual studio 2017\Projects\SchooInformation\StudentWeb\bin\Debug\netcoreapp1.1\StudentWeb.pdb
+c:\users\user\documents\visual studio 2017\Projects\SchooInformation\StudentWeb\obj\Debug\netcoreapp1.1\StudentWeb.dll
+c:\users\user\documents\visual studio 2017\Projects\SchooInformation\StudentWeb\obj\Debug\netcoreapp1.1\StudentWeb.pdb
+C:\Users\user\documents\visual studio 2017\Projects\SchooInformation\StudentWeb\obj\Debug\netcoreapp1.1\StudentWeb.csprojResolveAssemblyReference.cache
